@@ -1,4 +1,4 @@
-![Open Source at Allianz](logo-profile.jpg) 
+![Open Source at Allianz](./logo-profile.jpg) 
 
 ## Get Involved
 
