@@ -1,4 +1,4 @@
-![Open Source at Allianz](https://github.com/microsoft/.github/blob/main/profile/logo-profile.jpg) 
+![Open Source at Allianz](https://github.com/allianz/.github/blob/main/profile/logo-profile.jpg) 
 
 ## Get Involved
 
