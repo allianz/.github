@@ -5,5 +5,5 @@
 ## Get Involved
 
 
-* [Join the Allianz organization](join) 
-* [Create new project](new-project) 
+* [Join the Allianz organization](profile/join.md) 
+* [Create new project](profile/new-project.md) 
