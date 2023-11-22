@@ -1,5 +1,5 @@
 
-![Open Source at Allianz](https://github.com/allianz/.github/blob/main/profile/logo-profile2.png) 
+![Open Source at Allianz](https://github.com/allianz/.github/blob/main/profile/logo-profile3.png) 
 
 ## Get Involved
 
