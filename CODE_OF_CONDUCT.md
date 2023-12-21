@@ -64,4 +64,3 @@ reporter of any incident.
 This Code of Conduct is adapted from the Contributor Covenant,
 version [2.1](https://www.contributor-covenant.org/version/2/1/code_of_conduct.html).
 
-Simplifications where inspired by [Microsoft Code of Conduct](https://github.com/microsoft/opensource-code-of-conduct)
