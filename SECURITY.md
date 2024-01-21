@@ -9,7 +9,7 @@ If you find a security vulnerability, please responsibly disclose it using GitHu
 2. Open the Advisories page
 3. Click the button 'Report a vulnerability'
 
-![Open Source at Allianz](img/vulnerability-reporting2.png) 
+![Open Source at Allianz](https://github.com/allianz/.github/blob/main/img/vulnerability-reporting2.png) 
 
 **Do not create a public GitHub issue.**
 
